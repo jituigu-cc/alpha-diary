@@ -1,9 +1,9 @@
 {
-  "base_url": "https://cdn.jsdelivr.net/gh/yangxiaoweihn/test_abc@0.0.10",
+  "base_url": "https://cdn.jsdelivr.net/gh/yangxiaoweihn/test_abc@0.0.14",
   "app_update": {
     "body": {},
     "url": [
-      "/app_update.json"
+      "/1.0.2/app_update.json"
     ]
   },
   "editor_fonts": {

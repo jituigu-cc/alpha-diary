@@ -1,83 +1,88 @@
 {
   "title": "测试更新",
   "message": "1. 修复了富文本间距的bug\n2. 累死了一个程序员小妹妹\n3. 编辑器支持了一堆好玩的字体和好看的背景图",
-  "version_name": "1.0.1",
-  "version_code": 102000,
-  "arch": {
-    "universe": {
-      "md5": "036e7a1d7fc1863b927def0df889b577",
-      "size": 189412972,
-      "url": [
-        "/1.0.1/universe/app-beta-debug.apk"
-      ],
-      "parts": [
-        {
-          "index": 0,
-          "size": 18874368,
-          "md5": "3239978eec6d498c2f36d03d5bc973e0",
-          "url": "/1.0.1/universe/app-beta-debug.apk.part.0"
-        },
-        {
-          "index": 1,
-          "size": 18874368,
-          "md5": "0dcd18978cb9f7c14ba7b65501de3a34",
-          "url": "/1.0.1/universe/app-beta-debug.apk.part.1"
-        },
-        {
-          "index": 2,
-          "size": 18874368,
-          "md5": "49061b3e1544ea5c46dd60657b55a3a8",
-          "url": "/1.0.1/universe/app-beta-debug.apk.part.2"
-        },
-        {
-          "index": 3,
-          "size": 18874368,
-          "md5": "65f9e1d435bbedb0d4e72dd099a6727c",
-          "url": "/1.0.1/universe/app-beta-debug.apk.part.3"
-        },
-        {
-          "index": 4,
-          "size": 18874368,
-          "md5": "5f502de55b5dfc5a2c3ba5bb0366add3",
-          "url": "/1.0.1/universe/app-beta-debug.apk.part.4"
-        },
-        {
-          "index": 5,
-          "size": 18874368,
-          "md5": "cbcf3db51f4d9d797167830885d6a6f6",
-          "url": "/1.0.1/universe/app-beta-debug.apk.part.5"
-        },
-        {
-          "index": 6,
-          "size": 18874368,
-          "md5": "a5b95b2eb7ed93820bab82f9684095a5",
-          "url": "/1.0.1/universe/app-beta-debug.apk.part.6"
-        },
-        {
-          "index": 7,
-          "size": 18874368,
-          "md5": "2ef9d858af69537e189968b7cb48025f",
-          "url": "/1.0.1/universe/app-beta-debug.apk.part.7"
-        },
-        {
-          "index": 8,
-          "size": 18874368,
-          "md5": "4662625d6df152ff23d9741d75b29fb9",
-          "url": "/1.0.1/universe/app-beta-debug.apk.part.8"
-        },
-        {
-          "index": 9,
-          "size": 18874368,
-          "md5": "ab1671a816e6fa9769447ebc571c3f37",
-          "url": "/1.0.1/universe/app-beta-debug.apk.part.9"
-        },
-        {
-          "index": 10,
-          "size": 669292,
-          "md5": "e7b83241feb2913db7488bff02545634",
-          "url": "/1.0.1/universe/app-beta-debug.apk.part.10"
-        }
-      ]
+  "version_name": "1.0.2",
+  "version_code": 102,
+   "arch": {
+    "official": {
+      "armeabi-v7a": {
+        "md5": "3985f2a86e09a95d5d1025faad7bf10b",
+        "size": 44084834,
+        "url": [
+          "/1.0.2/official/armeabi-v7a/app-beta-armeabi-v7a-release.apk"
+        ],
+        "parts": [
+          {
+            "index": 0,
+            "size": 18874368,
+            "md5": "6dd1e441f2abce42cc8d9f469cd3cec2",
+            "url": "/1.0.2/official/armeabi-v7a/app-beta-armeabi-v7a-release.apk.part.0"
+          },
+          {
+            "index": 1,
+            "size": 18874368,
+            "md5": "d01fbdd7b672ee54ead32de26f014f54",
+            "url": "/1.0.2/official/armeabi-v7a/app-beta-armeabi-v7a-release.apk.part.1"
+          },
+          {
+            "index": 2,
+            "size": 6336098,
+            "md5": "a65a117775f10c6773ec0cc61ba1d257",
+            "url": "/1.0.2/official/armeabi-v7a/app-beta-armeabi-v7a-release.apk.part.2"
+          }
+        ]
+      },
+      "universal": {
+        "md5": "bd8071587c99bcecfca3f1b42ede9568",
+        "size": 128986645,
+        "url": [
+          "/1.0.2/official/universal/app-beta-universal-release.apk"
+        ],
+        "parts": [
+          {
+            "index": 0,
+            "size": 18874368,
+            "md5": "1aeae1bf5e260ad96bba45ad04294ce7",
+            "url": "/1.0.2/official/universal/app-beta-universal-release.apk.part.0"
+          },
+          {
+            "index": 1,
+            "size": 18874368,
+            "md5": "fbd08f40abbdc4b9dcd46a582d4bb65e",
+            "url": "/1.0.2/official/universal/app-beta-universal-release.apk.part.1"
+          },
+          {
+            "index": 2,
+            "size": 18874368,
+            "md5": "c3c8bb7fc2191ba90a68feb88ade7e7c",
+            "url": "/1.0.2/official/universal/app-beta-universal-release.apk.part.2"
+          },
+          {
+            "index": 3,
+            "size": 18874368,
+            "md5": "4f48e104ccb006ee0de1f8da39945c7c",
+            "url": "/1.0.2/official/universal/app-beta-universal-release.apk.part.3"
+          },
+          {
+            "index": 4,
+            "size": 18874368,
+            "md5": "064c8c302ccc21a84e7ebf2a96d7d8b4",
+            "url": "/1.0.2/official/universal/app-beta-universal-release.apk.part.4"
+          },
+          {
+            "index": 5,
+            "size": 18874368,
+            "md5": "3b1e27bc3de8ea51c58233f169d1e816",
+            "url": "/1.0.2/official/universal/app-beta-universal-release.apk.part.5"
+          },
+          {
+            "index": 6,
+            "size": 15740437,
+            "md5": "c28594015b281ca6f58f91395ed084a4",
+            "url": "/1.0.2/official/universal/app-beta-universal-release.apk.part.6"
+          }
+        ]
+      }
     }
   }
 }
