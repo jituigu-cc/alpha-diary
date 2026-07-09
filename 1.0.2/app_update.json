@@ -1,9 +1,9 @@
 {
   "title": "测试更新",
   "message": "1. 修复了富文本间距的bug\n2. 累死了一个程序员小妹妹\n3. 编辑器支持了一堆好玩的字体和好看的背景图",
-  "version_name": "1.0.2",
-  "version_code": 102,
-  "arch": {
+  "version_name": "1.0.3",
+  "version_code": 103,
+  "android": {
     "official": {
       "armeabi-v7a": {
         "md5": "3985f2a86e09a95d5d1025faad7bf10b",
