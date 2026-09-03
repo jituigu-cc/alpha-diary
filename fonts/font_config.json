@@ -1,6 +1,7 @@
 [
   {
     "id": "115560690",
+    "type": "font",
     "name": "频凡胡涂体",
     "is_pro": false,
     "url_base": "",
@@ -10,6 +11,7 @@
   },
   {
     "id": "989281023",
+    "type": "font",
     "name": "仓耳舒圆体",
     "is_pro": true,
     "url_base": "",
@@ -19,6 +21,7 @@
   },
   {
     "id": "251027614",
+    "type": "font",
     "name": "纳米点宋",
     "is_pro": false,
     "url_base": "",
@@ -28,6 +31,7 @@
   },
   {
     "id": "129897139",
+    "type": "font",
     "name": "萌神手写体",
     "is_pro": false,
     "url_base": "",
@@ -37,6 +41,7 @@
   },
   {
     "id": "825986599",
+    "type": "font",
     "name": "凤凰点阵体",
     "is_pro": false,
     "url_base": "",
@@ -46,6 +51,7 @@
   },
   {
     "id": "216093850",
+    "type": "font",
     "name": "清松手写体",
     "is_pro": false,
     "url_base": "",
@@ -55,6 +61,7 @@
   },
   {
     "id": "506096745",
+    "type": "font",
     "name": "手写杂书体",
     "is_pro": false,
     "url_base": "",
@@ -64,6 +71,7 @@
   },
   {
     "id": "635948083",
+    "type": "font",
     "name": "方正楷体",
     "is_pro": false,
     "url_base": "",
@@ -73,6 +81,7 @@
   },
   {
     "id": "346727758",
+    "type": "font",
     "name": "视界法棍体",
     "is_pro": false,
     "url_base": "",
@@ -82,6 +91,7 @@
   },
   {
     "id": "773601036",
+    "type": "font",
     "name": "爱点风雅黑",
     "is_pro": false,
     "url_base": "",
@@ -91,6 +101,7 @@
   },
   {
     "id": "218630567",
+    "type": "font",
     "name": "小赖体",
     "is_pro": false,
     "url_base": "",
@@ -100,6 +111,7 @@
   },
   {
     "id": "370689426",
+    "type": "font",
     "name": "梅干手写体",
     "is_pro": false,
     "url_base": "",
@@ -109,6 +121,7 @@
   },
   {
     "id": "745541617",
+    "type": "font",
     "name": "仙人掌明体",
     "is_pro": false,
     "url_base": "",
@@ -118,6 +131,7 @@
   },
   {
     "id": "568581519",
+    "type": "font",
     "name": "霞鹜致宋体",
     "is_pro": false,
     "url_base": "",
@@ -127,6 +141,7 @@
   },
   {
     "id": "520515655",
+    "type": "font",
     "name": "文泉驿点阵",
     "is_pro": false,
     "url_base": "",
@@ -136,6 +151,7 @@
   },
   {
     "id": "250897929",
+    "type": "font",
     "name": "萌神拼音体",
     "is_pro": false,
     "url_base": "",
@@ -145,6 +161,7 @@
   },
   {
     "id": "809163422",
+    "type": "font",
     "name": "方正仿宋",
     "is_pro": false,
     "url_base": "",
@@ -154,6 +171,7 @@
   },
   {
     "id": "147181653",
+    "type": "font",
     "name": "荆南麦圆体",
     "is_pro": false,
     "url_base": "",
@@ -163,6 +181,7 @@
   },
   {
     "id": "529812334",
+    "type": "font",
     "name": "方正黑体",
     "is_pro": false,
     "url_base": "",
@@ -171,16 +190,18 @@
     ]
   },
   {
-    "id": "742243497",
-    "name": "醍醐书体",
+    "id": "73862090",
+    "type": "icon",
+    "name": "1",
     "is_pro": false,
     "url_base": "",
     "url": [
-      "fonts/a559c8a39010beb6e9053d387a01931d.zip"
+      "fonts/bd21190449b7e88db48fa0f580a8f666.zip"
     ]
   },
   {
     "id": "114408413",
+    "type": "font",
     "name": "unifont点阵",
     "is_pro": false,
     "url_base": "",
@@ -190,6 +211,7 @@
   },
   {
     "id": "349439489",
+    "type": "font",
     "name": "方正书宋",
     "is_pro": false,
     "url_base": "",
@@ -199,6 +221,7 @@
   },
   {
     "id": "118179665",
+    "type": "font",
     "name": "字帮玩酷体",
     "is_pro": false,
     "url_base": "",
