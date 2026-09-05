@@ -14,12 +14,11 @@
     ]
   },
   "editor_backgrounds": {
-    "version": 0,
+    "version": 1,
     "body": [],
     "url": [],
     "parts": [
-      "/editor_bg/part_1.zip",
-      "/editor_bg/part_2.zip"
+      "/editor_bg/part_1.zip"
     ]
   }
 }
