@@ -3,18 +3,17 @@
   "app_update": {
     "body": {},
     "url": [
-      "/1.0.2/app_update.json"
     ]
   },
   "editor_fonts": {
-    "version": 0,
+    "version": 1,
     "body": [],
     "url": [
       "/fonts/font_config.json"
     ]
   },
   "editor_backgrounds": {
-    "version": 4,
+    "version": 1,
     "body": [],
     "url": [],
     "parts": [
