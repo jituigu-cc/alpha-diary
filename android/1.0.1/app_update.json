@@ -1,0 +1,38 @@
+{
+  "title": "有新版本啦",
+  "message": "1. 优化了使用体验\n2. 累死了一个程序员小哥哥",
+  "version_name": "1.0.1",
+  "version_code": 10001,
+  "android": {
+    "official": {
+      "market": {},
+      "arm64": {
+        "md5": "65cfc4834e2b667b187c8550c04c868b",
+        "size": 52851100,
+        "url": [
+          "/android/1.0.1/official/arm64/app-official-release-v1.0.1-10001-20261104201050.apk"
+        ],
+        "parts": [
+          {
+            "index": 0,
+            "size": 18874368,
+            "md5": "41ed825a2a5f0403c6f62d770834cf53",
+            "url": "/android/1.0.1/official/arm64/app-official-release-v1.0.1-10001-20261104201050.apk.part.1"
+          },
+          {
+            "index": 1,
+            "size": 18874368,
+            "md5": "9c3d128840ee99206559346d34367134",
+            "url": "/android/1.0.1/official/arm64/app-official-release-v1.0.1-10001-20261104201050.apk.part.2"
+          },
+          {
+            "index": 2,
+            "size": 15102364,
+            "md5": "0e434f869413edda0ca8b6eb4b88c033",
+            "url": "/android/1.0.1/official/arm64/app-official-release-v1.0.1-10001-20261104201050.apk.part.3"
+          }
+        ]
+      }
+    }
+  }
+}
