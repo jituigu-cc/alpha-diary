@@ -1,0 +1,23 @@
+{
+  "base_url": "",
+  "app_update": {
+    "body": {},
+    "url": [
+    ]
+  },
+  "editor_fonts": {
+    "version": 1,
+    "body": [],
+    "url": [
+      "/fonts/font_config.json"
+    ]
+  },
+  "editor_backgrounds": {
+    "version": 1,
+    "body": [],
+    "url": [],
+    "parts": [
+      "/editor_bg/part_1.zip"
+    ]
+  }
+}
