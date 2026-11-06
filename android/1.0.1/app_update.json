@@ -1,35 +1,125 @@
 {
   "title": "有新版本啦",
-  "message": "1. 优化了使用体验\n2. 累死了一个程序员小哥哥",
+  "message": "1. 优化了使用体验\n2. 累死了一个程序媛小妹妹",
   "version_name": "1.0.1",
   "version_code": 10001,
   "android": {
     "official": {
-      "market": {},
-      "arm64": {
-        "md5": "65cfc4834e2b667b187c8550c04c868b",
-        "size": 52851100,
+      "universe": {
+        "md5": "76e0e8135708bbdc600782bb583cad20",
+        "size": 167250390,
         "url": [
-          "/android/1.0.1/official/arm64/app-official-release-v1.0.1-10001-20261104201050.apk"
+          "/android/1.0.1/official/universe/app-official-release-v1.0.1-10001-20261106151740.apk"
         ],
         "parts": [
           {
             "index": 0,
             "size": 18874368,
-            "md5": "41ed825a2a5f0403c6f62d770834cf53",
-            "url": "/android/1.0.1/official/arm64/app-official-release-v1.0.1-10001-20261104201050.apk.part.1"
+            "md5": "daf5cde00a5456fe7ddbfb23a5b02732",
+            "url": "/android/1.0.1/official/universe/app-official-release-v1.0.1-10001-20261106151740.apk.part.1"
           },
           {
             "index": 1,
             "size": 18874368,
-            "md5": "9c3d128840ee99206559346d34367134",
-            "url": "/android/1.0.1/official/arm64/app-official-release-v1.0.1-10001-20261104201050.apk.part.2"
+            "md5": "579b0331e62599f70cb4f03a1a9db55e",
+            "url": "/android/1.0.1/official/universe/app-official-release-v1.0.1-10001-20261106151740.apk.part.2"
           },
           {
             "index": 2,
-            "size": 15102364,
-            "md5": "0e434f869413edda0ca8b6eb4b88c033",
-            "url": "/android/1.0.1/official/arm64/app-official-release-v1.0.1-10001-20261104201050.apk.part.3"
+            "size": 18874368,
+            "md5": "1f4dd2cac24baad729d1ee734fcc8675",
+            "url": "/android/1.0.1/official/universe/app-official-release-v1.0.1-10001-20261106151740.apk.part.3"
+          },
+          {
+            "index": 3,
+            "size": 18874368,
+            "md5": "f9912b9afe77fa015148700616d46c1a",
+            "url": "/android/1.0.1/official/universe/app-official-release-v1.0.1-10001-20261106151740.apk.part.4"
+          },
+          {
+            "index": 4,
+            "size": 18874368,
+            "md5": "e12411690cefe1d35d9ff6c133b4cf52",
+            "url": "/android/1.0.1/official/universe/app-official-release-v1.0.1-10001-20261106151740.apk.part.5"
+          },
+          {
+            "index": 5,
+            "size": 18874368,
+            "md5": "54a6cfdc8cbb619fa105cca73d223369",
+            "url": "/android/1.0.1/official/universe/app-official-release-v1.0.1-10001-20261106151740.apk.part.6"
+          },
+          {
+            "index": 6,
+            "size": 18874368,
+            "md5": "59083ed9b49a64a4eb994d1a25f5cd69",
+            "url": "/android/1.0.1/official/universe/app-official-release-v1.0.1-10001-20261106151740.apk.part.7"
+          },
+          {
+            "index": 7,
+            "size": 18874368,
+            "md5": "64f21142de1e771de116bf745c1eafc7",
+            "url": "/android/1.0.1/official/universe/app-official-release-v1.0.1-10001-20261106151740.apk.part.8"
+          },
+          {
+            "index": 8,
+            "size": 16255446,
+            "md5": "57925dbd0eb58f3218d2936ec7b4e831",
+            "url": "/android/1.0.1/official/universe/app-official-release-v1.0.1-10001-20261106151740.apk.part.9"
+          }
+        ]
+      },
+      "market": {},
+      "arm64": {
+        "md5": "9bbb9df0dca47e34d95801c6283ef34f",
+        "size": 53047712,
+        "url": [
+          "/android/1.0.1/official/arm64/app-official-release-v1.0.1-10001-20261106151740.apk"
+        ],
+        "parts": [
+          {
+            "index": 0,
+            "size": 18874368,
+            "md5": "daf5cde00a5456fe7ddbfb23a5b02732",
+            "url": "/android/1.0.1/official/arm64/app-official-release-v1.0.1-10001-20261106151740.apk.part.1"
+          },
+          {
+            "index": 1,
+            "size": 18874368,
+            "md5": "579b0331e62599f70cb4f03a1a9db55e",
+            "url": "/android/1.0.1/official/arm64/app-official-release-v1.0.1-10001-20261106151740.apk.part.2"
+          },
+          {
+            "index": 2,
+            "size": 15298976,
+            "md5": "0068174288b4616fd6c2df84bf5d7a3a",
+            "url": "/android/1.0.1/official/arm64/app-official-release-v1.0.1-10001-20261106151740.apk.part.3"
+          }
+        ]
+      },
+      "arm32": {
+        "md5": "75b9f939cd014d6f44eaaf4629710ab3",
+        "size": 47031735,
+        "url": [
+          "/android/1.0.1/official/arm32/app-official-release-v1.0.1-10001-20261106151740.apk"
+        ],
+        "parts": [
+          {
+            "index": 0,
+            "size": 18874368,
+            "md5": "6774afdafc45e123cbb3f5d3d1610241",
+            "url": "/android/1.0.1/official/arm32/app-official-release-v1.0.1-10001-20261106151740.apk.part.1"
+          },
+          {
+            "index": 1,
+            "size": 18874368,
+            "md5": "1f374fd01906ed0b14d906a3128bb54e",
+            "url": "/android/1.0.1/official/arm32/app-official-release-v1.0.1-10001-20261106151740.apk.part.2"
+          },
+          {
+            "index": 2,
+            "size": 9282999,
+            "md5": "c5f0675d65c3f449b199683873fda700",
+            "url": "/android/1.0.1/official/arm32/app-official-release-v1.0.1-10001-20261106151740.apk.part.3"
           }
         ]
       }
